@@ -199,7 +199,7 @@ const projects = [
   {
     name: "Data Explolaration",
     description:
-      "In this project, I delved into the intricate details of the COVID-19 data, uncovering insightful trends and patterns. From optimizing queries to visualizing key metrics, the journey was both challenging and rewarding",
+      "In this project, I delved into the intricate details of the COVID-19 data, uncovering insightful trends and patterns. From optimizing queries to visualizing key metrics..",
     tags: [
       {
         name: "SQL Server",
