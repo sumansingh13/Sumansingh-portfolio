@@ -7,28 +7,35 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
-import html from "./tech/html.png";
-import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import hadoop from "./tech/hadoop.png";
+import Excel from "./tech/excel.png";
+import Github from "./tech/github.png";
+import Jupyter from "./tech/jupyter.png";
+import Machine from "./tech/machine.png";
+import Mysql from "./tech/mysql.png";
+import powerbi from "./tech/powerbi.png";
+import python from "./tech/python.png";
+import Rstudio from "./tech/rstudio.png";
+import Tableau from "./tech/tabeleu.png";
+import sqlserver from "./tech/sql-server.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import coronavirus from "./coronavirus.jpg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
+// import Facebookicon from "./heroIcons/facebook.svg";
+// import Githubicon from "./heroIcons/github.svg";
+// import Instagram from "./heroIcons/instagram.svg";
+// import LinkedIn from "./heroIcons/linkedin.svg";
+// import Gmail from "./heroIcons/gmail.svg";
+// import Twitterx from "./heroIcons/twitterx.svg";
 
 export {
   logo,
@@ -36,26 +43,26 @@ export {
   creator,
   mobile,
   web,
+  hadoop,
+  Excel,
   github,
+  Github,
+  Machine,
+  Mysql,
+  powerbi,
+  python,
+  Rstudio,
+  Tableau,
+  sqlserver,
+  git,
+  Jupyter,
   menu,
   close,
-  css,
-  docker,
-  figma,
-  git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
-  threejs,
   meta,
   shopify,
   starbucks,
   tesla,
+  coronavirus,
   carrent,
   jobit,
   tripguide,
