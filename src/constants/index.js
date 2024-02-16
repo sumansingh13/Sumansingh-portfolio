@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   Tableaudash,
+  Datacleaning,
 } from "../assets";
 
 export const navLinks = [
@@ -238,25 +239,25 @@ const projects = [
     source_code_link: "https://public.tableau.com/app/profile/suman.singh8247/viz/Covid-19Dashboard_17066433017850/Dashboard1#1",
   },
   {
-    name: "Trip Guide",
+    name: "Data Cleaning using SQL",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Revamped data for optimal clarity and analysis: standardized date formats, populated missing addresses, broke down components, clarified fields, removed duplicates, and deleted unnecessary columns.",
     tags: [
       {
-        name: "nextjs",
+        name: "DataCleaning",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "NashvilleHousing",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "SQL",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: Datacleaning,
+    source_code_link: "https://github.com/sumansingh13/Data-Cleaning-of-Nashvillehousing-using-sql/blob/main/Data%20Cleaning%20of%20Nashvillehousing%20using%20sql.sql",
   },
 ];
 

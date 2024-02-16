@@ -29,7 +29,8 @@ import coronavirus from "./coronavirus.jpg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import Tableaudash from "./Tableaudash.png"
+import Tableaudash from "./Tableaudash.png";
+import Datacleaning from "./Datacleaning.jpg";
 
 // import Facebookicon from "./heroIcons/facebook.svg";
 // import Githubicon from "./heroIcons/github.svg";
@@ -68,4 +69,5 @@ export {
   jobit,
   tripguide,
   Tableaudash,
+  Datacleaning,
 };
