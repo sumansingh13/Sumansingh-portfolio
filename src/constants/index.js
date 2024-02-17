@@ -22,6 +22,7 @@ import {
   coronavirus,
   jobit,
   tripguide,
+  Tableaudash,
 } from "../assets";
 
 export const navLinks = [
@@ -217,24 +218,24 @@ const projects = [
       "https://github.com/sumansingh13/SQL-Data-Exploration-of-Covid/blob/main/Covid%20Project%20p1.sql ",
   },
   {
-    name: "Job IT",
-    description: "https://github.com/",
+    name: "Tableau Dashboard of Covid",
+    description: "Exploring COVID-19 Impact Globally: A Tableau Dashboard offers a comprehensive analysis of the worldwide effects of the COVID-19 pandemic",
     tags: [
       {
-        name: "react",
+        name: "Tableau",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Coviddashboard",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Visualization",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: Tableaudash,
+    source_code_link: "https://public.tableau.com/app/profile/suman.singh8247/viz/Covid-19Dashboard_17066433017850/Dashboard1#1",
   },
   {
     name: "Trip Guide",
