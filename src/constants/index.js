@@ -219,7 +219,7 @@ const projects = [
   },
   {
     name: "Tableau Dashboard of Covid",
-    description: "Exploring COVID-19 Impact Globally: A Tableau Dashboard offers a comprehensive analysis of the worldwide effects of the COVID-19 pandemic",
+    description: "Exploring COVID-19 Impact Globally: A Tableau Dashboard offers a comprehensive analysis of the worldwide effects of the COVID-19 pandemic                                                                    ",
     tags: [
       {
         name: "Tableau",
