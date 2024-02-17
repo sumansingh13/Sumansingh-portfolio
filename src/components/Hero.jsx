@@ -38,7 +38,7 @@ const Hero = () => {
       </div>
 
       {/* ai image */}
-      <div className=" absolute mt-[380px] xl:mt-0 ml-[90px] xl:ml-0 md:right-0  xl:bottom-24   xl:right-16  mx-auto justify-end items-center  w-fit">
+      <div className=" absolute mt-[380px] xl:mt-0 ml-[90px] xl:ml-0 md:right-0  xl:bottom-0   xl:right-0  mx-auto justify-end items-center  w-fit">
         <img
           src={Ai}
           className=" h-[280px] md:h-[500px]  xl:h-[700px]"
@@ -46,7 +46,7 @@ const Hero = () => {
         />
       </div>
       {/* scroll btn */}
-      <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
+      <div className="absolute bottom-5 xs:bottom-0 bottom-32 w-full flex justify-center items-center">
         <a href="#about">
           <div className="w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2">
             <motion.div

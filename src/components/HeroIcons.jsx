@@ -2,7 +2,7 @@ import React from "react";
 
 const HeroIcons = () => {
   return (
-    <div className="flex flex-row max-w-[60%] -ml-28 xl:ml-0 gap-10">
+    <div className="flex flex-row max-w-[60%] -ml-28 xl:ml-0 gap-7 xl:gap-10">
       <div className="facebook flex-none ">
         <a href="https://github.com/sumansingh13 ">
           <div className="logo  ">
