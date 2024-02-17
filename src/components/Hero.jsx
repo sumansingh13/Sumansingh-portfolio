@@ -38,7 +38,7 @@ const Hero = () => {
       </div>
 
       {/* ai image */}
-      <div className=" absolute mt-[250px] xl:mt-0 ml-[90px] xl:ml-0 md:right-0  xl:bottom-0   xl:right-0  mx-auto justify-end items-center  w-fit">
+      <div className=" absolute mt-[280px] xl:mt-0 ml-[90px] xl:ml-0 md:right-0  xl:bottom-0   xl:right-0  mx-auto justify-end items-center  w-fit">
         <img
           src={Ai}
           className=" h-[280px] md:h-[500px]  xl:h-[700px]"
